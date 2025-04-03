@@ -133,7 +133,7 @@ namespace GPOpgaver
         public static int[] ArrayOfMultiples(int num, int length)
         {
             throw new NotImplementedException();
-            //Write your solution here
+            
         }
         /*
          * Exercise 7.
